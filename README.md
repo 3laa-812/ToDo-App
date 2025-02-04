@@ -21,5 +21,5 @@ A simple and interactive To-Do App built using HTML, CSS, and JavaScript.
 [Try it here](https://3laa-812.github.io/ToDo-App/)
 
 
-💡 *Made with ❤️ by [3laa](https://github.com/your-username)*
+💡 *Made with ❤️ by [3laa](https://github.com/3laa-812)*
 
